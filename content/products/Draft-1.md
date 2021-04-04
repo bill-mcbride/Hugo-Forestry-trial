@@ -1,6 +1,5 @@
 +++
 description = "Camembert Cheese Chunk"
-draft = true
 id = "CAMEMBERT"
 image = "camembert.jpg"
 name = "Camembert"
