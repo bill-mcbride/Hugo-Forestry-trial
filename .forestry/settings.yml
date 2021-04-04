@@ -19,11 +19,11 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: static/uploads
+upload_dir: static/uploads/images
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ':filename:= "icons"'
+file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
