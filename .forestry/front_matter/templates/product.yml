@@ -32,6 +32,3 @@ fields:
   config:
     required: false
   label: product_url
-pages:
-- content/products/Draft-1.md
-- content/products/Draft.md
