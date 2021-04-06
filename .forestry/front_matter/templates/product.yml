@@ -33,5 +33,6 @@ fields:
     required: false
   label: product_url
 pages:
+- content/products/camembert.md
 - content/products/cheddar.md
 - content/products/gouda.md
